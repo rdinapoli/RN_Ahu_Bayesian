@@ -1,7 +1,7 @@
 # RN_Ahu_Bayesian
 Chronological models for Rapa Nui (Easter Island) statue platforms (ahu).
 
-Folder _radiocarbon_data_ contains radiocarbon determination used for colonization model (Table S1) and ahu sites (Table S2).
+Folder _radiocarbon_data_ contains radiocarbon determinations used for colonization model (Table S1) and ahu sites (Table S2).
 
 Folder _Ahu_Bayesian_OxCal_ contains .oxcal and .js files for all OxCal models described in the main text and supplementary text.
 
