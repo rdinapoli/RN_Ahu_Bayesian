@@ -1,0 +1,39 @@
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Curve("SHCal13","SHCal13.14c");
+  Sequence("Tautira")
+  {
+   After()
+   {
+    Prior("Start_Colonization","Start_Colonization.prior");
+   };
+   Boundary("Start TPQs");
+   Phase("TPQ")
+   {
+    R_Date("Ua-13284", 475, 60)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End TPQs");
+   Date("Start Tautira");
+   Boundary("Start TAQs");
+   Phase("TAQ")
+   {
+    R_Date("Ua-13162", 720, 50)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Ua-13161", 220, 50)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End Tautira");
+   Before("Moai Fall")
+   {
+    C_Date("Moai Fall", AD(1848), 5);
+   };
+  };
+ };

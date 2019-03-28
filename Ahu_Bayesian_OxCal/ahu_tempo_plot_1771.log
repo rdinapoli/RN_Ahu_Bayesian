@@ -1,0 +1,1685 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Warning! Duplicate names - SHCal13
+Warning! Duplicate names - SHCal13
+Warning! Duplicate names - SHCal13
+ahu-construction-100k-1771 MCMC_Sample()
+Exp(1,-10,0)
+  68.2% probability
+    -1 (68.2%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.2% probability
+    0 (68.2%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+T(5)
+  68.2% probability
+    -1 (68.2%) 1
+  95.4% probability
+    -3 (95.4%) 3
+U(0,4)
+  68.2% probability
+    0 (68.2%) 4
+  95.4% probability
+    0 (95.4%) 4
+General Outlier_Model()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Akivi TPQs Boundary()
+I-456 R_Date(460,75)
+  68.2% probability
+    1418AD (51.0%) 1509AD
+    1581AD (17.2%) 1621AD
+  95.4% probability
+    1401AD (95.4%) 1637AD
+( Phase Akivi TPQ
+Akivi TPQ Phase()
+) Phase Akivi TPQ
+End Akivi TPQs Boundary()
+Start Akivi 
+Start Akivi TAQs Boundary()
+M-1370 R_Date(425,100)
+Warning! Date may extend out of range - 425+/-100BP
+  68.2% probability
+    1442AD (33.5%) 1522AD
+    1536AD (34.7%) 1627AD
+  95.4% probability
+    1326AD ( 0.7%) 1341AD
+    1390AD (91.3%) 1675AD
+    1739AD ( 3.4%) 1798AD
+( Phase Akivi TAQ
+Akivi TAQ Phase()
+) Phase Akivi TAQ
+End Akivi Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Akivi
+Akivi Sequence()
+) Sequence Akivi
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Ature Huki TPQs Boundary()
+T-7979 R_Date(510,80)
+  68.2% probability
+    1394AD (63.6%) 1500AD
+    1597AD ( 4.6%) 1611AD
+  95.4% probability
+    1316AD ( 7.4%) 1356AD
+    1381AD (88.0%) 1628AD
+( Phase Ature Huki TPQ
+Ature Huki TPQ Phase()
+) Phase Ature Huki TPQ
+End Ature Huki TPQs Boundary()
+Start Ature Huki 
+Start Ature Huki TAQs Boundary()
+Ua-1144 R_Date(580,85)
+  68.2% probability
+    1315AD (22.5%) 1357AD
+    1381AD (45.7%) 1450AD
+  95.4% probability
+    1280AD (94.2%) 1501AD
+    1596AD ( 1.2%) 1612AD
+( Phase Ature Huki TAQ
+Ature Huki TAQ Phase()
+) Phase Ature Huki TAQ
+End Ature Huki Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Ature Huki
+Ature Huki Sequence()
+) Sequence Ature Huki
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Hekii TPQs Boundary()
+Ua-11700 R_Date(705,45)
+  68.2% probability
+    1288AD (32.2%) 1320AD
+    1350AD (36.0%) 1386AD
+  95.4% probability
+    1277AD (95.4%) 1395AD
+( Phase Hekii TPQ
+Hekii TPQ Phase()
+) Phase Hekii TPQ
+End Hekii TPQs Boundary()
+Start Hekii 
+Start Hekii TAQs Boundary()
+Ua-11702 R_Date(465,45)
+  68.2% probability
+    1431AD (66.3%) 1497AD
+    1603AD ( 1.9%) 1606AD
+  95.4% probability
+    1410AD (77.8%) 1512AD
+    1548AD ( 1.5%) 1561AD
+    1571AD (16.0%) 1623AD
+Ua-11703 R_Date(555,50)
+  68.2% probability
+    1399AD (68.2%) 1444AD
+  95.4% probability
+    1316AD (11.6%) 1355AD
+    1382AD (83.8%) 1460AD
+( Phase Hekii TAQ
+Hekii TAQ Phase()
+) Phase Hekii TAQ
+End Hekii Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Hekii 1
+Hekii 1 Sequence()
+) Sequence Hekii 1
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Motu Toremo Hiva TPQs Boundary()
+KIA-26464 R_Date(700,25)
+  68.2% probability
+    1296AD (30.0%) 1317AD
+    1355AD (38.2%) 1382AD
+  95.4% probability
+    1285AD (42.7%) 1327AD
+    1341AD (52.7%) 1391AD
+KIA-26453 R_Date(675,25)
+  68.2% probability
+    1302AD (26.2%) 1327AD
+    1341AD (26.1%) 1365AD
+    1375AD (16.0%) 1390AD
+  95.4% probability
+    1297AD (95.4%) 1393AD
+KIA-29812 R_Date(630,25)
+  68.2% probability
+    1322AD (44.8%) 1347AD
+    1388AD (23.4%) 1401AD
+  95.4% probability
+    1311AD (59.1%) 1360AD
+    1379AD (36.3%) 1413AD
+( Phase Motu Toremo Hiva TPQ
+Motu Toremo Hiva TPQ Phase()
+) Phase Motu Toremo Hiva TPQ
+Start Motu Toremo Hiva Boundary()
+KIA-26452 R_Date(675,20)
+  68.2% probability
+    1302AD (25.9%) 1326AD
+    1341AD (26.0%) 1364AD
+    1376AD (16.3%) 1390AD
+  95.4% probability
+    1299AD (95.4%) 1392AD
+KIA-26461 R_Date(630,25)
+  68.2% probability
+    1322AD (44.8%) 1347AD
+    1388AD (23.4%) 1401AD
+  95.4% probability
+    1311AD (59.1%) 1360AD
+    1379AD (36.3%) 1413AD
+KIA-29813 R_Date(610,25)
+  68.2% probability
+    1326AD (21.9%) 1341AD
+    1390AD (46.3%) 1410AD
+  95.4% probability
+    1319AD (37.1%) 1352AD
+    1385AD (58.3%) 1421AD
+( Phase Motu Toremo Hiva Targets
+Motu Toremo Hiva Targets Phase()
+) Phase Motu Toremo Hiva Targets
+Start Motu Toremo Hiva TAQs Boundary()
+KIA-29814 R_Date(325,25)
+  68.2% probability
+    1512AD (34.5%) 1549AD
+    1561AD ( 7.7%) 1572AD
+    1623AD (26.0%) 1647AD
+  95.4% probability
+    1503AD (63.2%) 1591AD
+    1615AD (32.2%) 1654AD
+KIA-26487 R_Date(240,20)
+  68.2% probability
+    1657AD (20.7%) 1672AD
+    1744AD (19.7%) 1759AD
+    1764AD ( 2.6%) 1767AD
+    1779AD (25.2%) 1797AD
+  95.4% probability
+    1650AD (27.3%) 1677AD
+    1735AD (68.1%) 1799AD
+( Phase Motu Toremo Hiva TAQ
+Motu Toremo Hiva TAQ Phase()
+) Phase Motu Toremo Hiva TAQ
+End Motu Toremo Hiva Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Motu Toremo Hiva
+Motu Toremo Hiva Sequence()
+) Sequence Motu Toremo Hiva
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Nau Nau TPQs Boundary()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Marine13 Curve(Marine13.14c)
+ Marine13 marine curve (Reimer et al 2013)
+LocalMarine Delta_R(-83,34)
+  68.2% probability
+    -119 (68.2%) -47
+  95.4% probability
+    -152 (95.4%) -15
+Mixed Mix_Curves(SHCal13,LocalMarine,50,10)
+  68.2% probability
+    40 (68.2%) 60
+  95.4% probability
+    30 (95.4%) 70
+Ua-4626 R_Date(710,75)
+  68.2% probability
+    1323AD (17.7%) 1360AD
+    1379AD (50.5%) 1456AD
+  95.4% probability
+    1281AD (95.4%) 1525AD
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Ua-34186 R_Date(555,35)
+  68.2% probability
+    1405AD (68.2%) 1435AD
+  95.4% probability
+    1391AD (95.4%) 1452AD
+Ua-34188 R_Date(655,30)
+  68.2% probability
+    1315AD (52.0%) 1357AD
+    1381AD (16.2%) 1395AD
+  95.4% probability
+    1300AD (95.4%) 1401AD
+Ua-34190 R_Date(665,35)
+  68.2% probability
+    1310AD (53.7%) 1360AD
+    1379AD (14.5%) 1392AD
+  95.4% probability
+    1295AD (95.4%) 1399AD
+T-6679 R_Date(1170,140)
+  68.2% probability
+    691AD ( 1.7%) 702AD
+    718AD ( 2.3%) 732AD
+    765AD (64.3%) 1030AD
+  95.4% probability
+    650AD (95.4%) 1180AD
+T-7341 R_Date(900,120)
+  68.2% probability
+    1045AD (14.8%) 1094AD
+    1107AD (53.4%) 1272AD
+  95.4% probability
+    906AD ( 0.5%) 917AD
+    970AD (91.4%) 1324AD
+    1345AD ( 3.4%) 1389AD
+T-7959 R_Date(510,40)
+  68.2% probability
+    1419AD (68.2%) 1453AD
+  95.4% probability
+    1399AD (95.4%) 1482AD
+T-7975 R_Date(710,40)
+  68.2% probability
+    1287AD (33.7%) 1319AD
+    1352AD (34.5%) 1384AD
+  95.4% probability
+    1279AD (95.4%) 1392AD
+T-7343 R_Date(750,100)
+  68.2% probability
+    1223AD (46.9%) 1325AD
+    1343AD (21.3%) 1390AD
+  95.4% probability
+    1053AD ( 0.4%) 1060AD
+    1068AD ( 0.6%) 1078AD
+    1147AD (94.4%) 1430AD
+T-7349 R_Date(550,150)
+Warning! Date may extend out of range - 550+/-150BP
+  68.2% probability
+    1292AD (61.8%) 1506AD
+    1587AD ( 6.4%) 1618AD
+  95.4% probability
+    1202AD (93.7%) 1673AD
+    1741AD ( 1.0%) 1772AD
+    1778AD ( 0.7%) 1797AD
+T-7350 R_Date(710,80)
+  68.2% probability
+    1279AD (32.9%) 1328AD
+    1338AD (35.3%) 1391AD
+  95.4% probability
+    1217AD (95.4%) 1420AD
+Ua-34189 R_Date(565,35)
+  68.2% probability
+    1400AD (68.2%) 1433AD
+  95.4% probability
+    1326AD ( 4.0%) 1341AD
+    1390AD (91.4%) 1448AD
+Ua-34191 R_Date(565,35)
+  68.2% probability
+    1400AD (68.2%) 1433AD
+  95.4% probability
+    1326AD ( 4.0%) 1341AD
+    1390AD (91.4%) 1448AD
+( Phase Nau Nau TPQ
+Nau Nau TPQ Phase()
+) Phase Nau Nau TPQ
+End Nau Nau TPQs Boundary()
+Start Nau Nau 
+Start Nau Nau TAQs Boundary()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Marine13 Curve(Marine13.14c)
+ Marine13 marine curve (Reimer et al 2013)
+LocalMarine Delta_R(-83,34)
+  68.2% probability
+    -119 (68.2%) -47
+  95.4% probability
+    -152 (95.4%) -15
+Mixed Mix_Curves(SHCal13,LocalMarine,50,10)
+  68.2% probability
+    40 (68.2%) 60
+  95.4% probability
+    30 (95.4%) 70
+Ua-34184 R_Date(640,65)
+  68.2% probability
+    1400AD (68.2%) 1510AD
+  95.4% probability
+    1325AD ( 3.5%) 1354AD
+    1383AD (91.9%) 1626AD
+Ua-34185 R_Date(610,50)
+  68.2% probability
+    1421AD (68.2%) 1521AD
+  95.4% probability
+    1408AD (95.4%) 1621AD
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Ua-34183 R_Date(535,35)
+  68.2% probability
+    1413AD (68.2%) 1443AD
+  95.4% probability
+    1399AD (95.4%) 1453AD
+T-6678 R_Date(860,130)
+  68.2% probability
+    1045AD (11.4%) 1091AD
+    1107AD ( 3.3%) 1122AD
+    1128AD (53.5%) 1294AD
+  95.4% probability
+    987AD (95.4%) 1400AD
+T-7342 R_Date(710,70)
+  68.2% probability
+    1280AD (33.0%) 1326AD
+    1341AD (35.2%) 1390AD
+  95.4% probability
+    1226AD (95.4%) 1408AD
+T-7347 R_Date(720,120)
+  68.2% probability
+    1229AD ( 7.2%) 1251AD
+    1260AD (61.0%) 1400AD
+  95.4% probability
+    1047AD ( 2.2%) 1085AD
+    1135AD (93.2%) 1454AD
+Ua-617 R_Date(610,85)
+  68.2% probability
+    1310AD (32.1%) 1360AD
+    1379AD (36.1%) 1433AD
+  95.4% probability
+    1271AD (95.4%) 1480AD
+( Phase Nau Nau TAQ
+Nau Nau TAQ Phase()
+) Phase Nau Nau TAQ
+End Nau Nau Boundary()
+Start Nau Nau IV Boundary()
+T-7958 R_Date(340,100)
+Warning! Date may extend out of range - 340+/-100BP
+  68.2% probability
+    1459AD (68.2%) 1665AD
+  95.4% probability
+    1427AD (77.0%) 1711AD
+    1719AD (14.1%) 1813AD
+    1836AD ( 0.8%) 1849AD
+    1855AD ( 1.7%) 1882AD
+    1926AD ( 1.7%) ...
+( Phase Nau Nau IV target
+Nau Nau IV target Phase()
+) Phase Nau Nau IV target
+Start Nau Nau IV TAQ Boundary()
+T-7976 R_Date(220,80)
+Warning! Date may extend out of range - 220+/-80BP
+  68.2% probability
+    1647AD (19.7%) 1711AD
+    1719AD (31.5%) 1812AD
+    1836AD ( 3.2%) 1849AD
+    1855AD ( 6.7%) 1881AD
+    1926AD ( 7.1%) ...
+  95.4% probability
+    1510AD ( 6.5%) 1576AD
+    1622AD (88.9%) ...
+( Phase Nau Nau IV TAQ
+Nau Nau IV TAQ Phase()
+) Phase Nau Nau IV TAQ
+End Nau Nau IV Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Nau Nau
+Nau Nau Sequence()
+) Sequence Nau Nau
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Raai TPQs Boundary()
+Ua-13167 R_Date(645,50)
+  68.2% probability
+    1310AD (47.1%) 1360AD
+    1379AD (21.1%) 1402AD
+  95.4% probability
+    1290AD (95.4%) 1420AD
+Ua-13166 R_Date(635,50)
+  68.2% probability
+    1313AD (43.4%) 1358AD
+    1380AD (24.8%) 1407AD
+  95.4% probability
+    1294AD (95.4%) 1424AD
+( Phase Raai TPQ
+Raai TPQ Phase()
+) Phase Raai TPQ
+Start Raai Boundary()
+Ua-13165 R_Date(570,50)
+  68.2% probability
+    1391AD (68.2%) 1444AD
+  95.4% probability
+    1314AD (18.6%) 1358AD
+    1380AD (76.8%) 1455AD
+( Phase Raai Targets
+Raai Targets Phase()
+) Phase Raai Targets
+Start Raai TAQs Boundary()
+Ua-13164 R_Date(515,60)
+  68.2% probability
+    1399AD (68.2%) 1463AD
+  95.4% probability
+    1319AD ( 4.3%) 1352AD
+    1385AD (85.1%) 1509AD
+    1580AD ( 5.9%) 1621AD
+Ua-13163 R_Date(135,60)
+Warning! Date may extend out of range - 135+/-60BP
+Warning! Date probably out of range - 135+/-60BP
+  68.2% probability
+    1697AD (10.8%) 1725AD
+    1808AD (57.4%) ...
+  95.4% probability
+    1670AD (25.3%) 1748AD
+    1755AD ( 5.0%) 1783AD
+    1795AD (65.1%) ...
+( Phase TAQ
+TAQ Phase()
+) Phase TAQ
+End Raai Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Raai
+Raai Sequence()
+) Sequence Raai
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Rongo 1 TPQs Boundary()
+GrA-18380 R_Date(655,30)
+  68.2% probability
+    1315AD (52.0%) 1357AD
+    1381AD (16.2%) 1395AD
+  95.4% probability
+    1300AD (95.4%) 1401AD
+GrA-18378 R_Date(655,30)
+  68.2% probability
+    1315AD (52.0%) 1357AD
+    1381AD (16.2%) 1395AD
+  95.4% probability
+    1300AD (95.4%) 1401AD
+( Phase Rongo 1 TPQ
+Rongo 1 TPQ Phase()
+) Phase Rongo 1 TPQ
+End Rongo 1 TPQs Boundary()
+Start Rongo 1 
+Start Rongo 1 TAQs Boundary()
+GrN-26318 R_Date(715,35)
+  68.2% probability
+    1288AD (36.1%) 1316AD
+    1357AD (32.1%) 1381AD
+  95.4% probability
+    1277AD (48.4%) 1328AD
+    1338AD (47.0%) 1391AD
+( Phase Rongo 1 TAQ
+Rongo 1 TAQ Phase()
+) Phase Rongo 1 TAQ
+End Rongo 1 Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Rongo 1
+Rongo 1 Sequence()
+) Sequence Rongo 1
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Tautira TPQs Boundary()
+Ua-13284 R_Date(475,60)
+  68.2% probability
+    1417AD (61.8%) 1500AD
+    1597AD ( 6.4%) 1611AD
+  95.4% probability
+    1400AD (72.4%) 1519AD
+    1538AD (23.0%) 1626AD
+( Phase Tautira TPQ
+Tautira TPQ Phase()
+) Phase Tautira TPQ
+End Tautira TPQs Boundary()
+Start Tautira 
+Start Tautira TAQs Boundary()
+Ua-13162 R_Date(720,50)
+  68.2% probability
+    1280AD (36.5%) 1320AD
+    1351AD (31.7%) 1386AD
+  95.4% probability
+    1235AD ( 1.2%) 1243AD
+    1265AD (94.2%) 1398AD
+Ua-13161 R_Date(220,50)
+Warning! Date may extend out of range - 220+/-50BP
+  68.2% probability
+    1650AD (21.1%) 1698AD
+    1724AD (44.3%) 1808AD
+    1839AD ( 0.7%) 1842AD
+    1869AD ( 2.1%) 1876AD
+  95.4% probability
+    1637AD (72.5%) 1819AD
+    1826AD (14.1%) 1895AD
+    1905AD ( 8.8%) ...
+( Phase Tautira TAQ
+Tautira TAQ Phase()
+) Phase Tautira TAQ
+End Tautira Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Tautira
+Tautira Sequence()
+) Sequence Tautira
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Te Niu TPQs Boundary()
+AZ-23 R_Date(685,50)
+  68.2% probability
+    1295AD (26.3%) 1325AD
+    1342AD (41.9%) 1390AD
+  95.4% probability
+    1281AD (95.4%) 1402AD
+AZ-25 R_Date(650,40)
+  68.2% probability
+    1312AD (49.5%) 1359AD
+    1380AD (18.7%) 1399AD
+  95.4% probability
+    1295AD (95.4%) 1408AD
+Beta-95878 R_Date(700,90)
+  68.2% probability
+    1280AD (68.2%) 1395AD
+  95.4% probability
+    1212AD (95.4%) 1437AD
+Beta-106319 R_Date(570,50)
+  68.2% probability
+    1391AD (68.2%) 1444AD
+  95.4% probability
+    1314AD (18.6%) 1358AD
+    1380AD (76.8%) 1455AD
+AZ-28 R_Date(555,40)
+  68.2% probability
+    1403AD (68.2%) 1438AD
+  95.4% probability
+    1326AD ( 3.8%) 1341AD
+    1390AD (91.6%) 1453AD
+AZ-13 R_Date(535,50)
+  68.2% probability
+    1405AD (68.2%) 1448AD
+  95.4% probability
+    1320AD ( 5.1%) 1350AD
+    1386AD (90.3%) 1486AD
+( Phase Te Niu TPQ
+Te Niu TPQ Phase()
+) Phase Te Niu TPQ
+End Te Niu TPQs Boundary()
+Start Te Niu 
+Start Te Niu TAQs Boundary()
+AZ-14 R_Date(230,60)
+Warning! Date may extend out of range - 230+/-60BP
+  68.2% probability
+    1641AD (22.8%) 1705AD
+    1722AD (38.4%) 1810AD
+    1838AD ( 1.8%) 1845AD
+    1867AD ( 3.0%) 1879AD
+    1932AD ( 1.6%) 1939AD
+    1944AD ( 0.6%) 1947AD
+  95.4% probability
+    1515AD ( 2.3%) 1542AD
+    1625AD (93.1%) ...
+AZ-22 R_Date(325,40)
+  68.2% probability
+    1509AD (47.4%) 1580AD
+    1621AD (20.8%) 1649AD
+  95.4% probability
+    1482AD (95.4%) 1667AD
+Beta-95879 R_Date(230,90)
+Warning! Date may extend out of range - 230+/-90BP
+  68.2% probability
+    1637AD (20.6%) 1712AD
+    1718AD (28.9%) 1813AD
+    1836AD (12.0%) 1891AD
+    1925AD ( 6.7%) ...
+  95.4% probability
+    1504AD (11.3%) 1590AD
+    1616AD (84.1%) ...
+AZ-8 R_Date(375,45)
+  68.2% probability
+    1490AD (16.5%) 1520AD
+    1537AD (51.7%) 1627AD
+  95.4% probability
+    1459AD (95.4%) 1638AD
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Marine13 Curve(Marine13.14c)
+ Marine13 marine curve (Reimer et al 2013)
+LocalMarine Delta_R(-83,34)
+  68.2% probability
+    -119 (68.2%) -47
+  95.4% probability
+    -152 (95.4%) -15
+Mixed Mix_Curves(SHCal13,LocalMarine,50,10)
+  68.2% probability
+    40 (68.2%) 60
+  95.4% probability
+    30 (95.4%) 70
+AZ-20 R_Date(380,45)
+Warning! Date may extend out of range - 380+/-45BP
+  68.2% probability
+    1645AD (31.4%) 1710AD
+    1726AD (36.8%) 1805AD
+  95.4% probability
+    1531AD ( 4.0%) 1586AD
+    1617AD (89.9%) 1891AD
+    1934AD ( 1.5%) ...
+( Phase Te Niu TAQ
+Te Niu TAQ Phase()
+) Phase Te Niu TAQ
+End Te Niu Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Te Niu
+Te Niu Sequence()
+) Sequence Te Niu
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start Vai Teka TPQs Boundary()
+I-455 R_Date(340,75)
+Warning! Date may extend out of range - 340+/-75BP
+  68.2% probability
+    1495AD (68.2%) 1651AD
+  95.4% probability
+    1445AD (86.2%) 1681AD
+    1731AD ( 9.2%) 1802AD
+( Phase Vai Teka TPQ
+Vai Teka TPQ Phase()
+) Phase Vai Teka TPQ
+Start Vai Teka Boundary()
+TBN-348-2 R_Date(399,76)
+Warning! Date may extend out of range - 399+/-76BP
+  68.2% probability
+    1456AD (28.9%) 1515AD
+    1541AD (39.3%) 1625AD
+  95.4% probability
+    1420AD (95.4%) 1664AD
+( Phase Vai Teka Targets
+Vai Teka Targets Phase()
+) Phase Vai Teka Targets
+End Vai Teka Boundary()
+Spanish C_Date(1771.5,0.01)
+( Before 
+Before()
+  68.2% probability
+    ... (68.2%) 1772
+  95.4% probability
+    ... (95.4%) 1772
+) Before 
+( Sequence Vai Teka
+Vai Teka Sequence()
+) Sequence Vai Teka
+( Phase 
+Phase()
+) Phase 
+i : Using logs - local probility low
+Posterior 
+( MCMC(30000)
+Warning! Poor agreement - A= 56.6%(A'c= 60.0%)
+Warning! Poor agreement - A= 57.0%(A'c= 60.0%)
+Charcoal Posterior 
+  68.2% probability
+    -67 (68.2%) -2
+  95.4% probability
+    -200 (95.4%) 2
+Posterior 
+Posterior 
+  68.2% probability
+    2 (68.2%) 2
+  95.4% probability
+    2 (95.4%) 2
+ Agreement 100.0%
+General Posterior 
+  68.2% probability
+    -18 (68.2%) 16
+  95.4% probability
+    -109 (95.4%) 87
+Posterior 
+Posterior 
+  68.2% probability
+    0 (68.2%) 2
+  95.4% probability
+    0 (94.9%) 4
+    4 ( 0.5%) 4
+ Agreement 100.0%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  99.2%
+Start Akivi TPQs Posterior 
+  68.2% probability
+    1410AD (68.2%) 1585AD
+  95.4% probability
+    1289AD (95.4%) 1663AD
+I-456 Posterior 
+  68.2% probability
+    1442AD (68.2%) 1572AD
+  95.4% probability
+    1415AD (95.4%) 1661AD
+ Agreement 106.6%
+End Akivi TPQs Posterior 
+  68.2% probability
+    1468AD (68.2%) 1603AD
+  95.4% probability
+    1431AD (95.4%) 1679AD
+Start Akivi Posterior 
+  68.2% probability
+    1495AD (68.2%) 1630AD
+  95.4% probability
+    1449AD (95.4%) 1694AD
+Start Akivi TAQs Posterior 
+  68.2% probability
+    1517AD (68.2%) 1658AD
+  95.4% probability
+    1462AD (95.4%) 1716AD
+M-1370 Posterior 
+  68.2% probability
+    1546AD (68.2%) 1686AD
+  95.4% probability
+    1480AD (95.4%) 1736AD
+ Agreement 108.2%
+End Akivi Posterior 
+  68.2% probability
+    1570AD (68.2%) 1730AD
+  95.4% probability
+    1506AD (95.4%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.6%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  99.2%
+Start Ature Huki TPQs Posterior 
+  68.2% probability
+    1344AD (68.2%) 1493AD
+  95.4% probability
+    1249AD (95.4%) 1568AD
+T-7979 Posterior 
+  68.2% probability
+    1354AD ( 1.2%) 1358AD
+    1399AD (67.0%) 1513AD
+  95.4% probability
+    1319AD (95.4%) 1576AD
+ Agreement 103.7%
+End Ature Huki TPQs Posterior 
+  68.2% probability
+    1404AD (68.2%) 1529AD
+  95.4% probability
+    1335AD (95.4%) 1605AD
+Start Ature Huki Posterior 
+  68.2% probability
+    1411AD (68.2%) 1543AD
+  95.4% probability
+    1351AD (95.4%) 1631AD
+Start Ature Huki TAQs Posterior 
+  68.2% probability
+    1417AD (68.2%) 1557AD
+  95.4% probability
+    1361AD (95.4%) 1660AD
+Ua-1144 Posterior 
+  68.2% probability
+    1426AD (68.2%) 1576AD
+  95.4% probability
+    1384AD (95.4%) 1693AD
+ Agreement  95.0%
+End Ature Huki Posterior 
+  68.2% probability
+    1434AD (68.2%) 1621AD
+  95.4% probability
+    1409AD (95.4%) 1756AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.6%
+Start_Colonization Posterior 
+  68.2% probability
+    1209AD (68.2%) 1261AD
+  95.4% probability
+    1151AD (95.4%) 1276AD
+ Agreement  98.8%
+Start Hekii TPQs Posterior 
+  68.2% probability
+    1282AD (22.9%) 1316AD
+    1330AD (45.3%) 1383AD
+  95.4% probability
+    1242AD (95.4%) 1396AD
+Ua-11700 Posterior 
+  68.2% probability
+    1299AD (14.2%) 1318AD
+    1347AD (54.0%) 1391AD
+  95.4% probability
+    1284AD (95.4%) 1398AD
+ Agreement 102.5%
+End Hekii TPQs Posterior 
+  68.2% probability
+    1345AD (68.2%) 1415AD
+  95.4% probability
+    1296AD (95.4%) 1428AD
+Start Hekii Posterior 
+  68.2% probability
+    1372AD (68.2%) 1427AD
+  95.4% probability
+    1323AD (95.4%) 1443AD
+Start Hekii TAQs Posterior 
+  68.2% probability
+    1397AD (68.2%) 1441AD
+  95.4% probability
+    1355AD (95.4%) 1456AD
+Ua-11702 Posterior 
+  68.2% probability
+    1421AD (68.2%) 1460AD
+  95.4% probability
+    1405AD (95.4%) 1487AD
+ Agreement 109.8%
+Ua-11703 Posterior 
+  68.2% probability
+    1415AD (68.2%) 1448AD
+  95.4% probability
+    1395AD (95.4%) 1461AD
+ Agreement 111.1%
+End Hekii Posterior 
+  68.2% probability
+    1424AD (68.2%) 1480AD
+  95.4% probability
+    1404AD (95.4%) 1572AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.7%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1152AD (95.4%) 1277AD
+ Agreement  99.6%
+Start Motu Toremo Hiva TPQs Posterior 
+  68.2% probability
+    1320AD (68.2%) 1395AD
+  95.4% probability
+    1267AD (95.4%) 1420AD
+KIA-26464 Posterior 
+  68.2% probability
+    1350AD (68.2%) 1409AD
+  95.4% probability
+    1315AD (95.4%) 1430AD
+ Agreement  98.4%
+KIA-26453 Posterior 
+  68.2% probability
+    1351AD (68.2%) 1407AD
+  95.4% probability
+    1320AD (95.4%) 1430AD
+ Agreement 100.3%
+KIA-29812 Posterior 
+  68.2% probability
+    1349AD (68.2%) 1406AD
+  95.4% probability
+    1327AD (95.4%) 1430AD
+ Agreement 100.3%
+Start Motu Toremo Hiva Posterior 
+  68.2% probability
+    1370AD (68.2%) 1425AD
+  95.4% probability
+    1339AD (95.4%) 1456AD
+KIA-26452 Posterior 
+  68.2% probability
+    1387AD (68.2%) 1458AD
+  95.4% probability
+    1355AD (95.4%) 1525AD
+ Agreement  99.4%
+KIA-26461 Posterior 
+  68.2% probability
+    1393AD (68.2%) 1460AD
+  95.4% probability
+    1354AD (95.4%) 1525AD
+ Agreement  97.3%
+KIA-29813 Posterior 
+  68.2% probability
+    1397AD (68.2%) 1461AD
+  95.4% probability
+    1356AD (95.4%) 1530AD
+ Agreement 106.0%
+Start Motu Toremo Hiva TAQs Posterior 
+  68.2% probability
+    1404AD (68.2%) 1545AD
+  95.4% probability
+    1395AD (95.4%) 1680AD
+KIA-29814 Posterior 
+  68.2% probability
+    1556AD (25.9%) 1608AD
+    1627AD (42.3%) 1691AD
+  95.4% probability
+    1524AD (95.4%) 1721AD
+ Agreement  99.5%
+KIA-26487 Posterior 
+  68.2% probability
+    1662AD (68.2%) 1704AD
+  95.4% probability
+    1654AD (95.4%) 1753AD
+ Agreement  93.6%
+End Motu Toremo Hiva Posterior 
+  68.2% probability
+    1696AD (68.2%) 1766AD
+  95.4% probability
+    1676AD (95.4%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.8%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+ Agreement  99.5%
+Start Nau Nau TPQs Posterior 
+  68.2% probability
+    1398AD (68.2%) 1423AD
+  95.4% probability
+    1370AD (95.4%) 1434AD
+LocalMarine Posterior 
+  68.2% probability
+    -130 (68.2%) -63
+  95.4% probability
+    -163 (95.4%) -29
+ Agreement  97.7%
+Mixed Posterior 
+  68.2% probability
+    41 (68.2%) 60
+  95.4% probability
+    31 (95.4%) 69
+ Agreement 103.0%
+Ua-4626 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1427AD
+  95.4% probability
+    1393AD (95.4%) 1438AD
+ Agreement 151.8%
+Ua-34186 Posterior 
+  68.2% probability
+    1410AD (68.2%) 1427AD
+  95.4% probability
+    1401AD (95.4%) 1437AD
+ Agreement  90.8%
+Ua-34188 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1427AD
+  95.4% probability
+    1391AD (95.4%) 1438AD
+ Agreement  96.7%
+Ua-34190 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1427AD
+  95.4% probability
+    1390AD (95.4%) 1438AD
+ Agreement  98.1%
+T-6679 Posterior 
+  68.2% probability
+    1406AD (68.2%) 1428AD
+  95.4% probability
+    1387AD (95.4%) 1439AD
+Warning! Poor agreement - A= 35.7%(A'c= 60.0%)
+ Poor agreement  35.7%
+T-7341 Posterior 
+  68.2% probability
+    1406AD (68.2%) 1428AD
+  95.4% probability
+    1388AD (95.4%) 1439AD
+ Agreement  62.4%
+T-7959 Posterior 
+  68.2% probability
+    1410AD (68.2%) 1429AD
+  95.4% probability
+    1403AD (95.4%) 1437AD
+Warning! Poor agreement - A= 48.0%(A'c= 60.0%)
+ Poor agreement  48.0%
+T-7975 Posterior 
+  68.2% probability
+    1406AD (68.2%) 1428AD
+  95.4% probability
+    1389AD (95.4%) 1438AD
+ Agreement 100.4%
+T-7343 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1427AD
+  95.4% probability
+    1390AD (95.4%) 1439AD
+ Agreement 106.1%
+T-7349 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1428AD
+  95.4% probability
+    1391AD (95.4%) 1439AD
+ Agreement 128.2%
+T-7350 Posterior 
+  68.2% probability
+    1407AD (68.2%) 1427AD
+  95.4% probability
+    1390AD (95.4%) 1438AD
+ Agreement 106.9%
+Ua-34189 Posterior 
+  68.2% probability
+    1408AD (68.2%) 1426AD
+  95.4% probability
+    1399AD (95.4%) 1435AD
+ Agreement 126.9%
+Ua-34191 Posterior 
+  68.2% probability
+    1408AD (68.2%) 1426AD
+  95.4% probability
+    1399AD (95.4%) 1435AD
+ Agreement 126.9%
+End Nau Nau TPQs Posterior 
+  68.2% probability
+    1415AD (68.2%) 1433AD
+  95.4% probability
+    1407AD (95.4%) 1443AD
+Start Nau Nau Posterior 
+  68.2% probability
+    1420AD (68.2%) 1437AD
+  95.4% probability
+    1411AD (95.4%) 1447AD
+Start Nau Nau TAQs Posterior 
+  68.2% probability
+    1423AD (68.2%) 1443AD
+  95.4% probability
+    1414AD (95.4%) 1451AD
+LocalMarine Posterior 
+  68.2% probability
+    -118 (68.2%) -48
+  95.4% probability
+    -152 (95.4%) -15
+ Agreement  99.9%
+Mixed Posterior 
+  68.2% probability
+    37 (68.2%) 55
+  95.4% probability
+    29 (95.4%) 64
+ Agreement 102.3%
+Ua-34184 Posterior 
+  68.2% probability
+    1429AD (68.2%) 1450AD
+  95.4% probability
+    1417AD (95.4%) 1469AD
+ Agreement 158.7%
+Ua-34185 Posterior 
+  68.2% probability
+    1429AD (68.2%) 1451AD
+  95.4% probability
+    1417AD (95.4%) 1470AD
+ Agreement 119.5%
+Ua-34183 Posterior 
+  68.2% probability
+    1429AD (68.2%) 1448AD
+  95.4% probability
+    1420AD (95.4%) 1456AD
+ Agreement 100.8%
+T-6678 Posterior 
+  68.2% probability
+    1428AD (68.2%) 1450AD
+  95.4% probability
+    1416AD (95.4%) 1468AD
+ Agreement  68.6%
+T-7342 Posterior 
+  68.2% probability
+    1428AD (68.2%) 1450AD
+  95.4% probability
+    1416AD (95.4%) 1468AD
+ Agreement  99.0%
+T-7347 Posterior 
+  68.2% probability
+    1428AD (68.2%) 1450AD
+  95.4% probability
+    1416AD (95.4%) 1468AD
+ Agreement 104.5%
+Ua-617 Posterior 
+  68.2% probability
+    1429AD (68.2%) 1450AD
+  95.4% probability
+    1417AD (95.4%) 1469AD
+ Agreement 111.9%
+End Nau Nau Posterior 
+  68.2% probability
+    1432AD (68.2%) 1461AD
+  95.4% probability
+    1420AD (95.4%) 1490AD
+Start Nau Nau IV Posterior 
+  68.2% probability
+    1450AD (68.2%) 1554AD
+  95.4% probability
+    1437AD (95.4%) 1650AD
+T-7958 Posterior 
+  68.2% probability
+    1479AD (68.2%) 1605AD
+  95.4% probability
+    1460AD (95.4%) 1686AD
+ Agreement 113.6%
+Start Nau Nau IV TAQ Posterior 
+  68.2% probability
+    1502AD (49.6%) 1606AD
+    1631AD (18.6%) 1681AD
+  95.4% probability
+    1474AD (95.4%) 1728AD
+T-7976 Posterior 
+  68.2% probability
+    1520AD (36.5%) 1604AD
+    1651AD (31.7%) 1726AD
+  95.4% probability
+    1499AD (95.4%) 1757AD
+ Agreement  60.2%
+End Nau Nau IV Posterior 
+  68.2% probability
+    1539AD (27.0%) 1606AD
+    1674AD (41.2%) 1769AD
+  95.4% probability
+    1513AD (95.4%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.7%
+Start_Colonization Posterior 
+  68.2% probability
+    1209AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  98.7%
+Start Raai TPQs Posterior 
+  68.2% probability
+    1311AD (68.2%) 1416AD
+  95.4% probability
+    1240AD (95.4%) 1455AD
+Ua-13167 Posterior 
+  68.2% probability
+    1353AD (68.2%) 1431AD
+  95.4% probability
+    1317AD (95.4%) 1475AD
+ Agreement 103.0%
+Ua-13166 Posterior 
+  68.2% probability
+    1353AD (68.2%) 1432AD
+  95.4% probability
+    1319AD (95.4%) 1475AD
+ Agreement 103.1%
+Start Raai Posterior 
+  68.2% probability
+    1383AD (68.2%) 1469AD
+  95.4% probability
+    1341AD (95.4%) 1532AD
+Ua-13165 Posterior 
+  68.2% probability
+    1415AD (68.2%) 1500AD
+  95.4% probability
+    1385AD (95.4%) 1601AD
+ Agreement 108.7%
+Start Raai TAQs Posterior 
+  68.2% probability
+    1428AD (68.2%) 1603AD
+  95.4% probability
+    1415AD (95.4%) 1716AD
+Ua-13164 Posterior 
+  68.2% probability
+    1488AD (26.4%) 1563AD
+    1599AD (41.8%) 1710AD
+  95.4% probability
+    1456AD (95.4%) 1741AD
+ Agreement  76.0%
+Ua-13163 Posterior 
+  68.2% probability
+    1685AD (68.2%) 1740AD
+  95.4% probability
+    1529AD ( 2.5%) 1561AD
+    1651AD (92.9%) 1768AD
+ Agreement  75.3%
+End Raai Posterior 
+  68.2% probability
+    1720AD (68.2%) 1773AD
+  95.4% probability
+    1552AD ( 0.9%) 1570AD
+    1658AD (94.5%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.8%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1152AD (95.4%) 1277AD
+ Agreement  99.5%
+Start Rongo 1 TPQs Posterior 
+  68.2% probability
+    1325AD (68.2%) 1400AD
+  95.4% probability
+    1277AD (95.4%) 1441AD
+GrA-18380 Posterior 
+  68.2% probability
+    1340AD (68.2%) 1405AD
+  95.4% probability
+    1318AD (95.4%) 1442AD
+ Agreement 102.9%
+GrA-18378 Posterior 
+  68.2% probability
+    1340AD (68.2%) 1405AD
+  95.4% probability
+    1318AD (95.4%) 1442AD
+ Agreement 103.0%
+End Rongo 1 TPQs Posterior 
+  68.2% probability
+    1350AD (68.2%) 1415AD
+  95.4% probability
+    1325AD (95.4%) 1467AD
+Start Rongo 1 Posterior 
+  68.2% probability
+    1355AD (68.2%) 1428AD
+  95.4% probability
+    1330AD (95.4%) 1494AD
+Start Rongo 1 TAQs Posterior 
+  68.2% probability
+    1360AD (68.2%) 1441AD
+  95.4% probability
+    1332AD (95.4%) 1525AD
+GrN-26318 Posterior 
+  68.2% probability
+    1365AD (68.2%) 1457AD
+  95.4% probability
+    1337AD (95.4%) 1559AD
+ Agreement  99.8%
+End Rongo 1 Posterior 
+  68.2% probability
+    1365AD (68.2%) 1481AD
+  95.4% probability
+    1336AD (95.4%) 1654AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.9%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  99.2%
+Start Tautira TPQs Posterior 
+  68.2% probability
+    1388AD (68.2%) 1567AD
+  95.4% probability
+    1281AD (95.4%) 1673AD
+Ua-13284 Posterior 
+  68.2% probability
+    1435AD (68.2%) 1555AD
+  95.4% probability
+    1416AD (95.4%) 1672AD
+ Agreement 106.7%
+End Tautira TPQs Posterior 
+  68.2% probability
+    1458AD (64.0%) 1589AD
+    1620AD ( 4.2%) 1636AD
+  95.4% probability
+    1434AD (95.4%) 1692AD
+Start Tautira Posterior 
+  68.2% probability
+    1489AD (50.0%) 1590AD
+    1619AD (18.2%) 1666AD
+  95.4% probability
+    1454AD (95.4%) 1711AD
+Start Tautira TAQs Posterior 
+  68.2% probability
+    1506AD (36.8%) 1589AD
+    1625AD (31.4%) 1698AD
+  95.4% probability
+    1473AD (95.4%) 1738AD
+Ua-13162 Posterior 
+  68.2% probability
+    1520AD (30.3%) 1592AD
+    1638AD (37.9%) 1719AD
+  95.4% probability
+    1499AD (95.4%) 1754AD
+ Agreement 100.4%
+Ua-13161 Posterior 
+  68.2% probability
+    1530AD (14.7%) 1565AD
+    1654AD (53.5%) 1733AD
+  95.4% probability
+    1516AD (30.2%) 1613AD
+    1635AD (65.2%) 1763AD
+ Agreement  64.5%
+End Tautira Posterior 
+  68.2% probability
+    1550AD ( 5.0%) 1565AD
+    1665AD (63.2%) 1773AD
+  95.4% probability
+    1526AD (26.3%) 1626AD
+    1641AD (69.1%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.5%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+ Agreement  99.6%
+Start Te Niu TPQs Posterior 
+  68.2% probability
+    1379AD (68.2%) 1435AD
+  95.4% probability
+    1313AD (95.4%) 1447AD
+AZ-23 Posterior 
+  68.2% probability
+    1400AD (68.2%) 1447AD
+  95.4% probability
+    1355AD (95.4%) 1478AD
+ Agreement  99.9%
+AZ-25 Posterior 
+  68.2% probability
+    1401AD (68.2%) 1447AD
+  95.4% probability
+    1356AD (95.4%) 1476AD
+ Agreement  97.7%
+Beta-95878 Posterior 
+  68.2% probability
+    1401AD (68.2%) 1449AD
+  95.4% probability
+    1354AD (95.4%) 1480AD
+ Agreement 106.6%
+Beta-106319 Posterior 
+  68.2% probability
+    1410AD (68.2%) 1450AD
+  95.4% probability
+    1376AD (95.4%) 1491AD
+ Agreement 109.2%
+AZ-28 Posterior 
+  68.2% probability
+    1410AD (68.2%) 1439AD
+  95.4% probability
+    1396AD (95.4%) 1451AD
+ Agreement 111.0%
+AZ-13 Posterior 
+  68.2% probability
+    1413AD (68.2%) 1452AD
+  95.4% probability
+    1395AD (95.4%) 1494AD
+ Agreement 100.9%
+End Te Niu TPQs Posterior 
+  68.2% probability
+    1421AD (68.2%) 1476AD
+  95.4% probability
+    1407AD (95.4%) 1533AD
+Start Te Niu Posterior 
+  68.2% probability
+    1450AD (68.2%) 1559AD
+  95.4% probability
+    1432AD (95.4%) 1624AD
+Start Te Niu TAQs Posterior 
+  68.2% probability
+    1524AD (28.6%) 1578AD
+    1595AD (39.6%) 1650AD
+  95.4% probability
+    1474AD (95.4%) 1665AD
+AZ-14 Posterior 
+  68.2% probability
+    1564AD ( 4.5%) 1578AD
+    1627AD (63.7%) 1717AD
+  95.4% probability
+    1530AD (95.4%) 1741AD
+ Agreement  68.5%
+AZ-22 Posterior 
+  68.2% probability
+    1562AD ( 8.8%) 1581AD
+    1615AD (59.4%) 1667AD
+  95.4% probability
+    1520AD (95.4%) 1672AD
+ Agreement 100.5%
+Beta-95879 Posterior 
+  68.2% probability
+    1563AD ( 7.4%) 1585AD
+    1615AD (60.8%) 1708AD
+  95.4% probability
+    1527AD (95.4%) 1739AD
+ Agreement  76.1%
+AZ-8 Posterior 
+  68.2% probability
+    1588AD (68.2%) 1681AD
+  95.4% probability
+    1520AD (95.4%) 1711AD
+ Agreement 102.3%
+LocalMarine Posterior 
+  68.2% probability
+    -118 (68.2%) -48
+  95.4% probability
+    -152 (95.4%) -15
+ Agreement 100.0%
+Mixed Posterior 
+  68.2% probability
+    37 (68.2%) 57
+  95.4% probability
+    27 (95.4%) 67
+ Agreement  96.6%
+AZ-20 Posterior 
+  68.2% probability
+    1624AD (68.2%) 1701AD
+  95.4% probability
+    1525AD (16.9%) 1596AD
+    1612AD (78.5%) 1747AD
+ Agreement  95.1%
+End Te Niu Posterior 
+  68.2% probability
+    1652AD (62.8%) 1740AD
+    1750AD ( 5.4%) 1760AD
+  95.4% probability
+    1548AD ( 9.9%) 1604AD
+    1625AD (85.5%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.7%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  99.2%
+Start Vai Teka TPQs Posterior 
+  68.2% probability
+    1458AD (68.2%) 1632AD
+  95.4% probability
+    1292AD (95.4%) 1690AD
+I-455 Posterior 
+  68.2% probability
+    1510AD (68.2%) 1628AD
+  95.4% probability
+    1467AD (95.4%) 1683AD
+ Agreement 109.4%
+Start Vai Teka Posterior 
+  68.2% probability
+    1543AD (68.2%) 1661AD
+  95.4% probability
+    1490AD (95.4%) 1711AD
+TBN-348-2 Posterior 
+  68.2% probability
+    1574AD (68.2%) 1688AD
+  95.4% probability
+    1515AD (95.4%) 1735AD
+ Agreement 104.0%
+End Vai Teka Posterior 
+  68.2% probability
+    1605AD (68.2%) 1736AD
+  95.4% probability
+    1547AD (95.4%) 1773AD
+Spanish Posterior 
+  68.2% probability
+    1770AD (68.2%) 1771AD
+  95.4% probability
+    1770AD (95.4%) 1771AD
+ Agreement  70.7%
+) MCMC(3840000)

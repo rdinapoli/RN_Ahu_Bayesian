@@ -1,0 +1,61 @@
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Curve("SHCal13","SHCal13.14c");
+  Sequence("Motu Toremo Hiva")
+  {
+   After()
+   {
+    Prior("Start_Colonization","Start_Colonization.prior");
+   };
+   Boundary("Start TPQs");
+   Phase("TPQ")
+   {
+    R_Date("KIA-26464", 700, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-26453", 675, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-29812", 630, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("Start Motu Toremo Hiva");
+   Phase("Targets")
+   {
+    R_Date("KIA-26452", 675, 20)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-26461", 630, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-29813", 610, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("Start TAQs");
+   Phase("TAQ")
+   {
+    R_Date("KIA-29814", 325, 25)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-26487", 240, 20)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End Motu Toremo Hiva");
+   Before("Moai Fall")
+   {
+    C_Date("Moai Fall", AD(1848), 5);
+   };
+  };
+ };

@@ -1,0 +1,15 @@
+ Plot()
+ {
+  Prior("Start_Colonization","Start_Colonization.prior");
+  Prior("Start_Rongo_1","Start_Rongo_1.prior");
+  Prior("Start_Motu_Toremo_Hiva","Start_Motu_Toremo_Hiva.prior");
+  Prior("Start_Hekii","Start_Hekii.prior");
+  Prior("Start_Ra_ai","Start_Ra_ai.prior");
+  Prior("Start_Ature_Huki","Start_Ature_Huki.prior");
+  Prior("Start_Nau_Nau","Start_Nau_Nau.prior");
+  Prior("Start_Te_Niu","Start_Te_Niu.prior");
+  Prior("Start_Nau_Nau_IV","Start_Nau_Nau_IV.prior");
+  Prior("Start_Akivi","Start_Akivi.prior");
+  Prior("Start_Vai_Teka","Start_Vai_Teka.prior");
+  Prior("Start_Tautira","Start_Tautira.prior");
+ };

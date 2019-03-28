@@ -1,0 +1,31 @@
+
+Exp(1,-10,0)	-1.24	-0.05	-3.18	-0.05	
+U(0,3)	2.21177e-17	3	2.21177e-17	3	
+Charcoal	
+SHCal13	
+Start_Colonization	1210.5	1263	1151.5	1277	
+After()	1244.5		1266		
+Start TPQs	
+T-7979	1394	1611.5	1316	1628.5	
+TPQ	
+End TPQs	
+Start Ature Huki	
+Start TAQs	
+Ua-1144	1315.5	1450.5	1280	1612	
+TAQ	
+End Ature Huki	
+Moai Fall	1841.5	1855.5	1838.5	1858.5	
+Moai Fall		1846.25		1840.25	
+Ature Huki	
+@Charcoal	-59	2.5	-301.5	2.5	
+@	
+@	0.027	2.367	3.59955e-17	2.595	
+@Start_Colonization	1210	1262	1150	1277	
+@Start TPQs	1310.5	1474.5	1241	1626	
+@T-7979	1325	1495	1300.5	1629	
+@End TPQs	1338	1516.5	1313	1663.5	
+@Start Ature Huki	1363.5	1540	1323.5	1692	
+@Start TAQs	1385.5	1569.5	1330.5	1725.5	
+@Ua-1144	1398	1627.5	1339	1762	
+@End Ature Huki	1405.5	1645.5	1387	1841	
+@Moai Fall	1843.5	1853.5	1838	1859	

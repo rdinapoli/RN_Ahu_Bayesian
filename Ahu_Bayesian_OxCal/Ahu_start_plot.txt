@@ -1,0 +1,13 @@
+
+Start_Colonization	1210.5	1263	1151.5	1277	
+Start_Rongo_1	1334.5	1385	1309	1456	
+Start_Motu_Toremo_Hiva	1327.5	1400	1318	1412	
+Start_Hekii	1372.5	1426.5	1324	1443.5	
+Start_Ra_ai	1354.5	1435	1313.5	1503	
+Start_Ature_Huki	1363.5	1540	1323.5	1692	
+Start_Nau_Nau	1420.5	1440.5	1411.5	1449.5	
+Start_Te_Niu	1436	1536	1416.5	1611.5	
+Start_Nau_Nau_IV	1448	1550.5	1435.5	1655.5	
+Start_Akivi	1466.5	1616.5	1424	1729	
+Start_Vai_Teka	1512	1642.5	1462	1741.5	
+Start_Tautira	1600	1774.5	1506.5	1818.5	

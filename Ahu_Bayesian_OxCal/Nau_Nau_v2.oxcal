@@ -1,0 +1,134 @@
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Outlier_Model("General", T(5), U(0,4), "t");
+  Sequence("Nau Nau")
+  {
+   After()
+   {
+    Prior("Start_Colonization","Start_Colonization.prior");
+   };
+   Boundary("Start TPQs");
+   Phase("TPQ")
+   {
+    Curve("SHCal13","SHCal13.14c");
+    Curve("Marine13","Marine13.14c");
+    Delta_R("LocalMarine",-83,34);
+    Mix_Curve("Mixed","SHCal13","LocalMarine",50,10);
+    R_Date("Ua-4626", 710, 75)
+    {
+     Outlier("General", 0.05);
+    };
+    Curve("SHCal13","SHCal13.14c");
+    R_Date("Ua-34186", 555, 35)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Ua-34188", 655, 30)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Ua-34190", 665, 35)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-6679", 1170, 140)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7341", 900, 120)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7959", 510, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7975", 710, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7343", 750, 100)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7349", 550, 150)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7350", 710, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Ua-34189", 565, 35)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Ua-34191", 565, 35)
+    {
+     Outlier("General", 0.05);
+    };
+   };
+   Boundary("End TPQs");
+   Date("Start Nau Nau");
+   Boundary("Start TAQs");
+   Phase("TAQ")
+   {
+    Curve("SHCal13","SHCal13.14c");
+    Curve("Marine13","Marine13.14c");
+    Delta_R("LocalMarine",-83,34);
+    Mix_Curve("Mixed","SHCal13","LocalMarine",50,10);
+    R_Date("Ua-34184", 640, 65)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Ua-34185", 610, 50)
+    {
+     Outlier("General", 0.05);
+    };
+    Curve("SHCal13","SHCal13.14c");
+    R_Date("Ua-34183", 535, 35)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("T-6678", 860, 130)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7342", 710, 70)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7347", 720, 120)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Ua-617", 610, 85)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End Nau Nau");
+   Boundary("Start Nau Nau IV");
+   Phase("Nau Nau IV target")
+   {
+    R_Date("T-7958", 340, 100)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("Start Nau Nau IV TAQ");
+   Phase("Nau Nau IV TAQ")
+   {
+    R_Date("T-7976", 220, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End Nau Nau IV");
+   Before("Moai Fall")
+   {
+    C_Date("Moai Fall", AD(1848), 5);
+   };
+  };
+ };

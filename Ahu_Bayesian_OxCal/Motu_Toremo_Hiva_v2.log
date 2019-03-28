@@ -1,0 +1,223 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Exp(1,-10,0)
+  68.2% probability
+    -1 (68.2%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.2% probability
+    0 (68.2%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1151AD (95.4%) 1276AD
+( After 
+After()
+  68.2% probability
+    1244 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start TPQs Boundary()
+KIA-26464 R_Date(700,25)
+  68.2% probability
+    1296AD (30.0%) 1316AD
+    1355AD (38.2%) 1382AD
+  95.4% probability
+    1285AD (42.7%) 1326AD
+    1340AD (52.7%) 1390AD
+KIA-26453 R_Date(675,25)
+  68.2% probability
+    1302AD (26.2%) 1326AD
+    1340AD (26.1%) 1365AD
+    1375AD (16.0%) 1390AD
+  95.4% probability
+    1296AD (95.4%) 1393AD
+KIA-29812 R_Date(630,25)
+  68.2% probability
+    1322AD (44.8%) 1347AD
+    1388AD (23.4%) 1400AD
+  95.4% probability
+    1311AD (59.1%) 1360AD
+    1378AD (36.3%) 1412AD
+( Phase TPQ
+TPQ Phase()
+) Phase TPQ
+Start Motu Toremo Hiva Boundary()
+KIA-26452 R_Date(675,20)
+  68.2% probability
+    1302AD (25.9%) 1326AD
+    1341AD (26.0%) 1364AD
+    1376AD (16.3%) 1390AD
+  95.4% probability
+    1299AD (95.4%) 1392AD
+KIA-26461 R_Date(630,25)
+  68.2% probability
+    1322AD (44.8%) 1347AD
+    1388AD (23.4%) 1400AD
+  95.4% probability
+    1311AD (59.1%) 1360AD
+    1378AD (36.3%) 1412AD
+KIA-29813 R_Date(610,25)
+  68.2% probability
+    1326AD (21.9%) 1340AD
+    1390AD (46.3%) 1410AD
+  95.4% probability
+    1318AD (37.1%) 1352AD
+    1385AD (58.3%) 1420AD
+( Phase Targets
+Targets Phase()
+) Phase Targets
+Start TAQs Boundary()
+KIA-29814 R_Date(325,25)
+  68.2% probability
+    1512AD (34.5%) 1549AD
+    1560AD ( 7.7%) 1572AD
+    1622AD (26.0%) 1647AD
+  95.4% probability
+    1503AD (63.2%) 1591AD
+    1615AD (32.2%) 1654AD
+KIA-26487 R_Date(240,20)
+  68.2% probability
+    1656AD (20.7%) 1672AD
+    1744AD (19.7%) 1759AD
+    1764AD ( 2.6%) 1766AD
+    1779AD (25.2%) 1796AD
+  95.4% probability
+    1650AD (27.3%) 1677AD
+    1734AD (68.1%) 1799AD
+( Phase TAQ
+TAQ Phase()
+) Phase TAQ
+End Motu Toremo Hiva Boundary()
+Moai Fall C_Date(1848.5,5)
+  68.2% probability
+    1841AD (68.2%) 1855AD
+  95.4% probability
+    1838AD (95.4%) 1858AD
+( Before Moai Fall
+Moai Fall Before()
+  68.2% probability
+    ... (68.2%) 1846
+  95.4% probability
+    ... (95.4%) 1840
+) Before Moai Fall
+( Sequence Motu Toremo Hiva
+Motu Toremo Hiva Sequence()
+) Sequence Motu Toremo Hiva
+i : Using logs - local probility low
+Posterior 
+( MCMC(30000)
+Overall agreement  95.7%
+Dynamic agreement  95.1%
+Charcoal Posterior 
+  68.2% probability
+    -13 (68.2%) 2
+  95.4% probability
+    -55 (95.4%) 2
+Posterior 
+Posterior 
+  68.2% probability
+    0 (68.2%) 1
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1154AD (95.4%) 1276AD
+ Agreement  99.8%
+Start TPQs Posterior 
+  68.2% probability
+    1290AD (68.2%) 1358AD
+  95.4% probability
+    1262AD (95.4%) 1396AD
+KIA-26464 Posterior 
+  68.2% probability
+    1308AD (29.5%) 1332AD
+    1352AD (38.7%) 1386AD
+  95.4% probability
+    1298AD (95.4%) 1398AD
+ Agreement  93.6%
+KIA-26453 Posterior 
+  68.2% probability
+    1312AD (68.2%) 1367AD
+  95.4% probability
+    1303AD (95.4%) 1398AD
+ Agreement 101.9%
+KIA-29812 Posterior 
+  68.2% probability
+    1318AD (68.2%) 1361AD
+  95.4% probability
+    1311AD (95.4%) 1402AD
+ Agreement  93.1%
+Start Motu Toremo Hiva Posterior 
+  68.2% probability
+    1327AD (22.0%) 1349AD
+    1360AD (46.2%) 1400AD
+  95.4% probability
+    1318AD (95.4%) 1412AD
+KIA-26452 Posterior 
+  68.2% probability
+    1350AD (12.6%) 1365AD
+    1374AD (55.6%) 1410AD
+  95.4% probability
+    1325AD (95.4%) 1434AD
+ Agreement  96.8%
+KIA-26461 Posterior 
+  68.2% probability
+    1339AD (10.0%) 1352AD
+    1386AD (58.2%) 1417AD
+  95.4% probability
+    1326AD (95.4%) 1438AD
+ Agreement  99.8%
+KIA-29813 Posterior 
+  68.2% probability
+    1342AD ( 2.8%) 1346AD
+    1388AD (65.4%) 1422AD
+  95.4% probability
+    1325AD (20.7%) 1373AD
+    1380AD (74.7%) 1446AD
+ Agreement 107.7%
+Start TAQs Posterior 
+  68.2% probability
+    1345AD ( 6.0%) 1363AD
+    1390AD (62.2%) 1470AD
+  95.4% probability
+    1330AD (95.4%) 1582AD
+KIA-29814 Posterior 
+  68.2% probability
+    1520AD (42.6%) 1580AD
+    1626AD (25.6%) 1654AD
+  95.4% probability
+    1506AD (95.4%) 1674AD
+ Agreement  99.6%
+KIA-26487 Posterior 
+  68.2% probability
+    1650AD (61.1%) 1690AD
+    1748AD ( 7.1%) 1762AD
+  95.4% probability
+    1646AD (69.9%) 1708AD
+    1735AD (25.5%) 1804AD
+ Agreement  94.2%
+End Motu Toremo Hiva Posterior 
+  68.2% probability
+    1666AD (41.2%) 1728AD
+    1762AD (27.0%) 1820AD
+  95.4% probability
+    1662AD (95.4%) 1842AD
+Moai Fall Posterior 
+  68.2% probability
+    1843AD (68.2%) 1854AD
+  95.4% probability
+    1838AD (95.4%) 1858AD
+ Agreement 100.0%
+) MCMC(480000)
