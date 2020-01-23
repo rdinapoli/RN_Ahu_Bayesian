@@ -1,0 +1,63 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1211 (68.2%) 1263
+  95.4% probability
+    1152 (95.4%) 1277
+Start_Rongo_1 Prior(Start_Rongo_1.prior)
+  68.2% probability
+    1334 (68.2%) 1387
+  95.4% probability
+    1307 (95.4%) 1489
+Start_Motu_Toremo_Hiva Prior(Start_Motu_Toremo_Hiva.prior)
+  68.2% probability
+    1327 (25.8%) 1351
+    1363 (42.4%) 1400
+  95.4% probability
+    1317 (95.4%) 1415
+Start_Hekii Prior(Start_Hekii.prior)
+  68.2% probability
+    1373 (68.2%) 1427
+  95.4% probability
+    1325 (95.4%) 1444
+Start_Ra_ai Prior(Start_Ra_ai.prior)
+  68.2% probability
+    1354 (68.2%) 1435
+  95.4% probability
+    1313 (95.4%) 1510
+Start_Ature_Huki Prior(Start_Ature_Huki.prior)
+  68.2% probability
+    1368 (68.2%) 1549
+  95.4% probability
+    1323 (95.4%) 1695
+Start_Nau_Nau Prior(Start_Nau_Nau.prior)
+  68.2% probability
+    1421 (68.2%) 1441
+  95.4% probability
+    1412 (95.4%) 1449
+Start_Te_Niu Prior(Start_Te_Niu.prior)
+  68.2% probability
+    1436 (68.2%) 1537
+  95.4% probability
+    1417 (95.4%) 1612
+Start_Nau_Nau_IV Prior(Start_Nau_Nau_IV.prior)
+  68.2% probability
+    1448 (68.2%) 1551
+  95.4% probability
+    1436 (95.4%) 1656
+Start_Akivi Prior(Start_Akivi.prior)
+  68.2% probability
+    1465 (68.2%) 1613
+  95.4% probability
+    1423 (95.4%) 1728
+Start_Vai_Teka Prior(Start_Vai_Teka.prior)
+  68.2% probability
+    1511 (68.2%) 1643
+  95.4% probability
+    1462 (95.4%) 1749
+Start_Tautira Prior(Start_Tautira.prior)
+  68.2% probability
+    1603 (68.2%) 1776
+  95.4% probability
+    1508 (95.4%) 1822
