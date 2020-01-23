@@ -1,0 +1,132 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Exp(1,-10,0)
+  68.2% probability
+    -1 (68.2%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.2% probability
+    0 (68.2%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start TPQs Boundary()
+I-455 R_Date(340,75)
+Warning! Date may extend out of range - 340+/-75BP
+  68.2% probability
+    1495AD (68.2%) 1651AD
+  95.4% probability
+    1445AD (86.2%) 1681AD
+    1731AD ( 9.2%) 1802AD
+( Phase TPQ
+TPQ Phase()
+) Phase TPQ
+Start Vai Teka Boundary()
+TBN-348-2 R_Date(399,76)
+Warning! Date may extend out of range - 399+/-76BP
+  68.2% probability
+    1456AD (28.9%) 1515AD
+    1541AD (39.3%) 1625AD
+  95.4% probability
+    1420AD (95.4%) 1664AD
+( Phase Targets
+Targets Phase()
+) Phase Targets
+End Vai Teka Boundary()
+U(1838,1868)
+  68.2% probability
+    1837AD (68.2%) 1867AD
+  95.4% probability
+    1837AD (95.4%) 1867AD
+( Before Moai Fall
+Moai Fall Before()
+  68.2% probability
+    ... (68.2%) 1848
+  95.4% probability
+    ... (95.4%) 1840
+) Before Moai Fall
+( Sequence Vai Teka
+Vai Teka Sequence()
+) Sequence Vai Teka
+Posterior 
+( MCMC(30000)
+Overall agreement 103.9%
+Dynamic agreement 103.8%
+Charcoal Posterior 
+  68.2% probability
+    -32 (68.2%) 2
+  95.4% probability
+    -177 (95.4%) 2
+Posterior 
+Posterior 
+  68.2% probability
+    0 (68.2%) 2
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1152AD (95.4%) 1277AD
+ Agreement  99.7%
+Start TPQs Posterior 
+  68.2% probability
+    1424AD (68.2%) 1608AD
+  95.4% probability
+    1256AD (95.4%) 1687AD
+I-455 Posterior 
+  68.2% probability
+    1478AD (68.2%) 1603AD
+  95.4% probability
+    1446AD (95.4%) 1702AD
+ Agreement 108.6%
+Start Vai Teka Posterior 
+  68.2% probability
+    1511AD (68.2%) 1643AD
+  95.4% probability
+    1461AD (95.4%) 1748AD
+TBN-348-2 Posterior 
+  68.2% probability
+    1540AD (68.2%) 1670AD
+  95.4% probability
+    1484AD (94.5%) 1775AD
+    1785AD ( 0.9%) 1795AD
+ Agreement 100.5%
+End Vai Teka Posterior 
+  68.2% probability
+    1558AD (68.2%) 1746AD
+  95.4% probability
+    1518AD (95.4%) 1846AD
+Posterior 
+  68.2% probability
+    1838AD ( 0.5%) 1838AD
+    1841AD ( 0.7%) 1841AD
+    1843AD ( 1.0%) 1843AD
+    1845AD ( 2.2%) 1845AD
+    1846AD ( 2.7%) 1846AD
+    1847AD ( 4.1%) 1848AD
+    1849AD ( 3.3%) 1850AD
+    1850AD ( 4.9%) 1852AD
+    1852AD (43.3%) 1865AD
+    1866AD ( 5.4%) 1867AD
+  95.4% probability
+    1838AD ( 2.7%) 1839AD
+    1839AD (92.7%) 1867AD
+ Agreement 100.0%
+) MCMC(240000)

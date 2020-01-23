@@ -1,0 +1,39 @@
+ Plot()
+ {
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Curve("SHCal13","SHCal13.14c");
+  Sequence("Rongo 1")
+  {
+   After()
+   {
+    Prior("Start_Colonization","Start_Colonization.prior");
+   };
+   Boundary("Start TPQs");
+   Phase("TPQ")
+   {
+    R_Date("GrA-18380", 655, 30)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("GrA-18378", 655, 30)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End TPQs");
+   Date("Start Rongo 1");
+   Boundary("Start TAQs");
+   Phase("TAQ")
+   {
+    R_Date("GrN-26318", 715, 35)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End Rongo 1");
+   Before("Moai Fall")
+   {
+    Date(""Moai Fall"", U(1838, 1868));
+   };
+  };
+ };

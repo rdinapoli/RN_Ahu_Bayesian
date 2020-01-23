@@ -1,0 +1,156 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Exp(1,-10,0)
+  68.2% probability
+    -1 (68.2%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.2% probability
+    0 (68.2%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start TPQs Boundary()
+GrA-18380 R_Date(655,30)
+  68.2% probability
+    1315AD (52.0%) 1357AD
+    1381AD (16.2%) 1395AD
+  95.4% probability
+    1300AD (95.4%) 1401AD
+GrA-18378 R_Date(655,30)
+  68.2% probability
+    1315AD (52.0%) 1357AD
+    1381AD (16.2%) 1395AD
+  95.4% probability
+    1300AD (95.4%) 1401AD
+( Phase TPQ
+TPQ Phase()
+) Phase TPQ
+End TPQs Boundary()
+Start Rongo 1 
+Start TAQs Boundary()
+GrN-26318 R_Date(715,35)
+  68.2% probability
+    1288AD (36.1%) 1316AD
+    1357AD (32.1%) 1381AD
+  95.4% probability
+    1277AD (48.4%) 1328AD
+    1338AD (47.0%) 1391AD
+( Phase TAQ
+TAQ Phase()
+) Phase TAQ
+End Rongo 1 Boundary()
+U(1838,1868)
+  68.2% probability
+    1837AD (68.2%) 1867AD
+  95.4% probability
+    1837AD (95.4%) 1867AD
+( Before Moai Fall
+Moai Fall Before()
+  68.2% probability
+    ... (68.2%) 1848
+  95.4% probability
+    ... (95.4%) 1840
+) Before Moai Fall
+( Sequence Rongo 1
+Rongo 1 Sequence()
+) Sequence Rongo 1
+i : Using logs - local probility low
+Posterior 
+( MCMC(30000)
+Overall agreement 105.5%
+Dynamic agreement 106.5%
+Charcoal Posterior 
+  68.2% probability
+    -20 (68.2%) 2
+  95.4% probability
+    -132 (95.4%) 2
+Posterior 
+Posterior 
+  68.2% probability
+    0 (68.2%) 1
+  95.4% probability
+    0 (95.4%) 2
+ Agreement 100.0%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1154AD (95.4%) 1277AD
+ Agreement  99.6%
+Start TPQs Posterior 
+  68.2% probability
+    1306AD (68.2%) 1363AD
+  95.4% probability
+    1265AD (95.4%) 1425AD
+GrA-18380 Posterior 
+  68.2% probability
+    1318AD (68.2%) 1367AD
+  95.4% probability
+    1300AD (95.4%) 1430AD
+ Agreement 107.4%
+GrA-18378 Posterior 
+  68.2% probability
+    1317AD (68.2%) 1367AD
+  95.4% probability
+    1300AD (95.4%) 1430AD
+ Agreement 107.5%
+End TPQs Posterior 
+  68.2% probability
+    1325AD (68.2%) 1376AD
+  95.4% probability
+    1304AD (95.4%) 1458AD
+Start Rongo 1 Posterior 
+  68.2% probability
+    1333AD (68.2%) 1386AD
+  95.4% probability
+    1307AD (95.4%) 1489AD
+Start TAQs Posterior 
+  68.2% probability
+    1340AD (68.2%) 1395AD
+  95.4% probability
+    1308AD (95.4%) 1516AD
+GrN-26318 Posterior 
+  68.2% probability
+    1350AD (68.2%) 1404AD
+  95.4% probability
+    1310AD (95.4%) 1546AD
+ Agreement  99.1%
+End Rongo 1 Posterior 
+  68.2% probability
+    1351AD (68.2%) 1431AD
+  95.4% probability
+    1309AD (95.4%) 1647AD
+Posterior 
+  68.2% probability
+    1838AD ( 9.8%) 1841AD
+    1842AD ( 2.5%) 1843AD
+    1844AD ( 1.7%) 1844AD
+    1844AD ( 7.5%) 1847AD
+    1848AD ( 5.6%) 1850AD
+    1850AD ( 6.8%) 1852AD
+    1853AD (13.3%) 1858AD
+    1858AD ( 4.2%) 1860AD
+    1860AD ( 2.3%) 1861AD
+    1862AD ( 9.7%) 1865AD
+    1865AD ( 2.7%) 1866AD
+    1867AD ( 2.1%) 1867AD
+  95.4% probability
+    1838AD (95.4%) 1867AD
+ Agreement 100.0%
+) MCMC(960000)

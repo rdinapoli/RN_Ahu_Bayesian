@@ -1,0 +1,156 @@
+OxCal v4.3.2 Bronk Ramsey (2017); r:5
+ IntCal13 atmospheric curve (Reimer et al 2013)
+Exp(1,-10,0)
+  68.2% probability
+    -1 (68.2%) -0
+  95.4% probability
+    -3 (95.4%) -0
+U(0,3)
+  68.2% probability
+    0 (68.2%) 3
+  95.4% probability
+    0 (95.4%) 3
+Charcoal Outlier_Model()
+SHCal13 Curve(SHCal13.14c)
+ SHCal13 atmospheric curve (Hogg et al 2013)
+Start_Colonization Prior(Start_Colonization.prior)
+  68.2% probability
+    1210AD (68.2%) 1263AD
+  95.4% probability
+    1151AD (95.4%) 1277AD
+( After 
+After()
+  68.2% probability
+    1245 (68.2%) ...
+  95.4% probability
+    1266 (95.4%) ...
+) After 
+Start TPQs Boundary()
+Ua-13284 R_Date(475,60)
+  68.2% probability
+    1417AD (61.8%) 1500AD
+    1597AD ( 6.4%) 1611AD
+  95.4% probability
+    1400AD (72.4%) 1519AD
+    1538AD (23.0%) 1626AD
+( Phase TPQ
+TPQ Phase()
+) Phase TPQ
+End TPQs Boundary()
+Start Tautira 
+Start TAQs Boundary()
+Ua-13162 R_Date(720,50)
+  68.2% probability
+    1280AD (36.5%) 1320AD
+    1351AD (31.7%) 1386AD
+  95.4% probability
+    1235AD ( 1.2%) 1243AD
+    1265AD (94.2%) 1398AD
+Ua-13161 R_Date(220,50)
+Warning! Date may extend out of range - 220+/-50BP
+  68.2% probability
+    1650AD (21.1%) 1698AD
+    1724AD (44.3%) 1808AD
+    1839AD ( 0.7%) 1842AD
+    1869AD ( 2.1%) 1876AD
+  95.4% probability
+    1637AD (72.5%) 1819AD
+    1826AD (14.1%) 1895AD
+    1905AD ( 8.8%) ...
+( Phase TAQ
+TAQ Phase()
+) Phase TAQ
+End Tautira Boundary()
+U(1838,1868)
+  68.2% probability
+    1837AD (68.2%) 1867AD
+  95.4% probability
+    1837AD (95.4%) 1867AD
+( Before Moai Fall
+Moai Fall Before()
+  68.2% probability
+    ... (68.2%) 1848
+  95.4% probability
+    ... (95.4%) 1840
+) Before Moai Fall
+( Sequence Tautira
+Tautira Sequence()
+) Sequence Tautira
+i : Using logs - local probility low
+Posterior 
+( MCMC(30000)
+Overall agreement 100.2%
+Dynamic agreement  99.7%
+Charcoal Posterior 
+  68.2% probability
+    -451 (12.6%) -371
+    -157 (55.6%) -3
+  95.4% probability
+    -499 (29.6%) -268
+    -260 (65.8%) -2
+Posterior 
+Posterior 
+  68.2% probability
+    2 (68.2%) 3
+  95.4% probability
+    2 (95.4%) 3
+ Agreement 100.0%
+Start_Colonization Posterior 
+  68.2% probability
+    1210AD (68.2%) 1262AD
+  95.4% probability
+    1150AD (95.4%) 1277AD
+ Agreement  99.3%
+Start TPQs Posterior 
+  68.2% probability
+    1431AD (68.2%) 1689AD
+  95.4% probability
+    1297AD (95.4%) 1797AD
+Ua-13284 Posterior 
+  68.2% probability
+    1477AD (68.2%) 1680AD
+  95.4% probability
+    1439AD (95.4%) 1783AD
+ Agreement 102.7%
+End TPQs Posterior 
+  68.2% probability
+    1536AD (68.2%) 1732AD
+  95.4% probability
+    1469AD (95.4%) 1804AD
+Start Tautira Posterior 
+  68.2% probability
+    1603AD (68.2%) 1776AD
+  95.4% probability
+    1508AD (95.4%) 1821AD
+Start TAQs Posterior 
+  68.2% probability
+    1653AD (68.2%) 1806AD
+  95.4% probability
+    1537AD (95.4%) 1840AD
+Ua-13162 Posterior 
+  68.2% probability
+    1686AD (68.2%) 1822AD
+  95.4% probability
+    1573AD (95.4%) 1852AD
+ Agreement 100.3%
+Ua-13161 Posterior 
+  68.2% probability
+    1696AD (68.2%) 1818AD
+  95.4% probability
+    1560AD ( 2.0%) 1592AD
+    1642AD (93.4%) 1856AD
+ Agreement  98.3%
+End Tautira Posterior 
+  68.2% probability
+    1736AD (68.2%) 1850AD
+  95.4% probability
+    1579AD ( 0.8%) 1595AD
+    1650AD (94.6%) 1868AD
+Posterior 
+  68.2% probability
+    1847AD ( 1.0%) 1848AD
+    1848AD (67.2%) 1867AD
+  95.4% probability
+    1838AD (95.4%) 1867AD
+ Agreement 100.0%
+) MCMC(4224000)

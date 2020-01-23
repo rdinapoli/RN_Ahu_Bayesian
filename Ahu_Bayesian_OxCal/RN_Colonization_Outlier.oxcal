@@ -1,0 +1,126 @@
+ Plot()
+ {
+  Outlier_Model("General", T(5), U(0,4), "t");
+  Outlier_Model("Charcoal", Exp(1,-10,0), U(0,3), "t");
+  Curve("SHCal13","SHCal13.14c");
+  Sequence("Rapa Nui Colonization")
+  {
+   Boundary("Start Colonization Outlier");
+   Phase("Colonization")
+   {
+    R_Date("Beta-209903", 870, 80)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-209904", 870, 40)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("SRR-2430", 820, 40)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("KIA-17107", 731, 25)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-196716", 720, 60)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-196715", 710, 40)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-196712", 680, 60)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-196713", 670, 60)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("Beta-196711", 660, 40)
+    {
+     Outlier("General", 0.05);
+    };
+    R_Date("T-7346", 810, 70)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("T-7345", 810, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-18835", 951, 32)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-17569", 659, 33)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("KIA-17110", 654, 22)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-47281", 760, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-47173", 860, 100)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-47171", 660, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-47170", 900, 60)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-47169", 900, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-237462", 670, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-237459", 840, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-199324", 1110, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-144310", 780, 50)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-144308", 740, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-144307", 840, 40)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("Beta-144306", 790, 80)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("AZ-7", 680, 45)
+    {
+     Outlier("Charcoal", 1);
+    };
+    R_Date("AZ-5", 715, 70)
+    {
+     Outlier("Charcoal", 1);
+    };
+   };
+   Boundary("End");
+  };
+ };
