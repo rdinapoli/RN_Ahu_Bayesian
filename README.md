@@ -1,6 +1,7 @@
 # RN_Ahu_Bayesian
 Chronological models for Rapa Nui (Easter Island) statue platforms (ahu) as presented in:
-DiNapoli, Rieth, Lipo, & Hunt. "A model-based approach to the tempo of “collapse”: the case of Rapa Nui (Easter Island)"
+"DiNapoli RJ, Rieth TM, Lipo CP, Hunt TL (2020) A model-based approach to the tempo of “collapse”: The case of Rapa Nui (Easter Island). _Journal of Archaeological Science_ 116:105094. https://doi.org/10.1016/j.jas.2020.105094
+
 
 Folder _radiocarbon_data_ contains radiocarbon determinations used for colonization model (Table S1) and ahu sites (Table S2).
 
